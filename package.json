@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/Deepak802132/auth_api/issues"
   },
-  "homepage": "https://github.com/Deepak802132/auth_api#readme"
+  "homepage": "https://github.com/Deepak802132/auth_api#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
